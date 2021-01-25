@@ -1,3 +1,6 @@
+# Team Members
+KALA SRI SOWMYA - 19PA1A1257
+KODALI POOJITHA - 19PA1A0574
 # ROCK PAPER SCISSORS
    In this project you will train a machine to identify your hand gesture and play a rock
 paper scissor game against a computer.
