@@ -17,14 +17,7 @@ body{
      animation: blink 12s infinite;
 
 }
-button{
-   
-    border: 5px solid white;
-    box-shadow:0 0 5px #afafaf, 0 0 15px #8a8a8a, 0 0 20px #8a8a8a, 0 0 40px #8a8a8a ;
-    height: 100px;
-    width: 100px;
-    
-}
+
 #icons {
     flex-direction: row;
     text-align: bottom;
