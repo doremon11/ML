@@ -1,6 +1,4 @@
-# Team Members
-KALA SRI SOWMYA - 19PA1A1257
-KODALI POOJITHA - 19PA1A0574
+
 # ROCK PAPER SCISSORS
    In this project you will train a machine to identify your hand gesture and play a rock
 paper scissor game against a computer.
@@ -17,5 +15,13 @@ Each move wins against one shape and loses to another.
 
 -> Scissors is ‘crushed’ by rock but ‘cuts’ paper.
 
+# Teachable Machine Model Link
+   https://teachablemachine.withgoogle.com/models/jYMGNUhoh/
+
 # PLAY GAME HERE !
-  https://ml.kalasri.repl.co
+  https://ML.kalasri.repl.co
+# Team Members
+KALA SRI SOWMYA - 19PA1A1257
+KODALI POOJITHA - 19PA1A0574
+
+   
